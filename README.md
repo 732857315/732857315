@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi I AM Xiucheng Wu 👋
 
+I'm from china,and my English is so bad,so I can't use English to talk with you.
+Please don't think this,just reading my code.
+If you want contact me,you can E-mail my e-mail.My e-mail is 732857315@qq.com.
+And my Wechat is w732857315.
 <!--
 **732857315/732857315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
